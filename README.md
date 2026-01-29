@@ -1,4 +1,4 @@
-A simple console calculator that performs basic arithmetic operations.
+**A simple console calculator that performs basic arithmetic operations.**
 Features:
 1)Addition, subtraction, multiplication and division
 2)Simple and intuitive interface
@@ -12,4 +12,4 @@ Operation (+, -, *, /)
 
 
 Thanks to everyone who makes suggestions for improving the code!
-Author: @gicoder505
+**Author: @gicoder505**
